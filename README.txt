@@ -8,12 +8,13 @@ Dish Search:
   dish web page that shows cooking instructions etc.
 
 Pantry:
-  
+  This is a virtual pantry that is basically a list of ingredients that user can save to keep in storage
+  all the items that user has bought or already has in their actual pantry
+
 Shopping List:
+  This is a screen user can access and add either either manually or via the add ingredients button from the
+  Dish Search screen.
 
-
-Provides links to cooking instructions. Allows user to save ingredients to a shopping list. 
-Also allows user to save ingredients in a virtual pantry to keep track of what you have.
 
 Demo:
 https://www.youtube.com/watch?v=_4IksbjE3gE&t=3s
